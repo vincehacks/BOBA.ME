@@ -17,4 +17,4 @@ ReactJS web app that is a Boba Tea bay area directory!
 
 
 #### Landing Page
-![](/Users/y748808/Desktop/BOBA.ME/Images/First Push.png)
+![](https://github.com/vincehacks/BOBA.ME/blob/master/Images/First%20Push.png)
