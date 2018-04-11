@@ -14,3 +14,7 @@ ReactJS web app that is a Boba Tea bay area directory!
 	- `class componentName extends React.Component{}`
 	- This is the ES6 class way of creating components
 	- Do NOT use the `createClass` way to create componenets because
+
+
+#### Landing Page
+![](/Users/y748808/Desktop/BOBA.ME/Images/First Push.png)
