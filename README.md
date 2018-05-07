@@ -2,6 +2,11 @@
 Created by Vince Chang </br>
 ReactJS web app that is a Boba Tea bay area directory!
 
+
+My personal ReactJS web app that connects Boba Enthusiasts with a list
+of Boba shops around the Bay Area! 
+
+
 #### Getting Started
 	1. Create-React-App: node module of the app makes the configuration
 		
