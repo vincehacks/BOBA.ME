@@ -2,7 +2,7 @@ import React from 'react';
 import {Route} from 'react-router-dom';
 import Home from './Home';
 
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
       // Import all the Routes here

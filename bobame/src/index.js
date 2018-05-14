@@ -11,7 +11,7 @@ import getMuiTheme from 'material-ui/styles/getMuiTheme';
 // const bobaTheme = getMuiTheme({});
 
 ReactDOM.render((
-  <MuiThemeProvider bobaTheme={bobaTheme}>
+  <MuiThemeProvider>
     <div>
       <HashRouter>
         <App />
