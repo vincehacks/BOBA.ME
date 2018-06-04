@@ -23,3 +23,17 @@ of Boba shops around the Bay Area!
 
 #### Landing Page
 ![](https://github.com/vincehacks/BOBA.ME/blob/master/Images/First%20Push.png)
+
+
+#### File Directory
+- ***public/index.html*** : this is just a basic index.html, react will be
+injected into here by using the `<div id="root"></div>` tag
+- ***src/data*** : stores all the boba shop information in both .json and .js
+- ***src/App.js*** : stores all the routes
+- ***src/index.css*** : is one monster file that stores all css
+- ***src/index.js*** : this is the entry point, anything type of imports that I
+want in all of my app will be entered here
+
+
+#### Routes
+- ****Home.js**** : This is the landing page
